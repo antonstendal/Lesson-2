@@ -5,7 +5,7 @@ var  searchM = [1,2,3,'array',5,6];
 			break;
 		console.log(searchM[i]);
 	
-}
+};
 
 //Написать плагин, который находит число в массиве
 (function () {
